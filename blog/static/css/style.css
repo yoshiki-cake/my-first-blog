@@ -15,7 +15,7 @@
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', sans-serif;
+    font-family: emoji;
 }
 
 .date {
@@ -34,6 +34,13 @@ h1, h2, h3, h4 {
     color: #ffffff;
     float: right;
     font-size: 26pt;
+    margin-right: 20px;
+}
+
+.top-menu2, .top-menu2:hover, .top-menu2:visited {
+    color: #ffffff;
+    float: right;
+    font-size: 16pt;
     margin-right: 20px;
 }
 
